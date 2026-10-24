@@ -3,3 +3,5 @@ venv312/
 __pycache__/
 *.pyc
 .env
+
+Task-3-Secure-Coding/users.db
